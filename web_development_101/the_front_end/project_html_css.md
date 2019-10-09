@@ -2509,6 +2509,8 @@ Submit a pull request with a link to your solution in this [file](https://github
 * [Impulse Dev's Solution (Easy)](https://github.com/impulsedevlog/google-homepage) - [View in Browser](https://impulsedevlog.github.io/google-homepage/)
 * [akayjo's Solution (Easy)](https://github.com/impulsedevlog/google-homepage) - [View in Browser](https://akayjo.github.io/google-homepage/)
 </details>
+Ricardo's Solution (Easy) https://ricardo-gonzalez-villegas.github.io/google-homepage/
+Ricardo's Solution (Difficult) https://ricardo-gonzalez-villegas.github.io/google-search-results/
 
 ### Additional Resources
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.

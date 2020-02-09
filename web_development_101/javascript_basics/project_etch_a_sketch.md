@@ -755,4 +755,8 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 * [Tenacious-Qi's Solution](https://github.com/Tenacious-Qi/Pixel-Sketch) - [View in Browser](https://tenacious-qi.github.io/Pixel-Sketch/)
 * [Michael Doudy's Solution](https://github.com/mdoudy90/etch-a-sketch) - [View in Browser](https://mdoudy90.github.io/etch-a-sketch/)
 * [Dameon Wilson's Solution](https://github.com/theBrownCoder/etch-a-sketch) - [View in Browser](https://thebrowncoder.github.io/etch-a-sketch/)
+
+please add my solution to the etch a sketch 
+https://ricardo-gonzalez-villegas.github.io/etch-a-sketch/index.html
+
 </details>
